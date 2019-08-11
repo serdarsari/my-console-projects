@@ -43,4 +43,29 @@ Bu bölümde Ad, Soyad, Ders, Not olmak üzere 4 sütunda kullanıcının girdi�
 
 ## Program içi görseller:
 
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/%C3%96%C4%9Frenci%20Otomasyonu/images/1.jpg)
+
+-------------------------------------------------
+
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/%C3%96%C4%9Frenci%20Otomasyonu/images/2.jpg)
+
+-------------------------------------------------
+
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/%C3%96%C4%9Frenci%20Otomasyonu/images/3.jpg)
+
+-------------------------------------------------
+
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/%C3%96%C4%9Frenci%20Otomasyonu/images/4.jpg)
+
+-------------------------------------------------
+
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/%C3%96%C4%9Frenci%20Otomasyonu/images/5.jpg)
+
+-------------------------------------------------
+
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/%C3%96%C4%9Frenci%20Otomasyonu/images/6.jpg)
+
+-------------------------------------------------
+
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/%C3%96%C4%9Frenci%20Otomasyonu/images/7.jpg)
 
