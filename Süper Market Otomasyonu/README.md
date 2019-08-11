@@ -60,10 +60,24 @@ Bu seçimde kasa kapatılır ve bu gün sonu olduğu anlamına gelir. Bu işlem 
 ## Program içi görseller:
 
 ![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/1.jpg)
+
+-------------------------------------------------
+
 ![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/2.jpg)
+
+-------------------------------------------------
+
 ![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/3.jpg)
+
+-------------------------------------------------
+
 ![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/4.jpg)
+
+-------------------------------------------------
+
 ![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/5.jpg)
+
+-------------------------------------------------
 
 ## Veritabanı görüntüleri:
 
