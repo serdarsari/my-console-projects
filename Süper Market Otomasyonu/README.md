@@ -1,9 +1,9 @@
 # Süper Market Otomasyonu
 * ///////////////////////////////////////////////////////
 * *Bu projede kullanılan programlama dili ve programlar*
-* *Programlama Dili : PYTHON*
-* *Veritabanı : SQLite*
-* *Derleme Ortamı : VS Code*
+* *Programlama Dili : **PYTHON***
+* *Veritabanı : **SQLite***
+* *Derleme Ortamı : **VS Code***
 * ///////////////////////////////////////////////////////
 
 Merhaba!
