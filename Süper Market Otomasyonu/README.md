@@ -57,3 +57,7 @@ Günlük Toplam Cironuz : 98.0 TL
 Bu seçimde kasa kapatılır ve bu gün sonu olduğu anlamına gelir. Bu işlem sonucunda gün boyunca yapılan satış, iade ve ciro başka bir veritabanına kaydedilerek, Günlük olarak veri incelenmesine olanak tanınmış olur. 1 Ay sonunda günlük verilerin tutulduğu veriye girerek, ay boyunca nasıl bir grafik izlenildiği gözlemlenebilir.
 
 ![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/1.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/2.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/3.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/4.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/5.jpg)
