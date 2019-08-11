@@ -15,6 +15,9 @@ SüperMarket projemi Python öğrenmeye başladığım zamanlarda yaptım. Bu pr
 10-Günlük Toplam Alınan İade Sayısı
 11-Günlük Ciro Hesapla
 12-Kasayı Kapat
+13-fsdf
+14-sadasdasd
+15-dasfcbc
 
 -------------------------------------------------
 
