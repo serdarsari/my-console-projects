@@ -4,7 +4,7 @@
 * Programlama Dili : PYTHON
 * Veritabanı : SQLite
 * Derleme Ortamı : VS Code
-///////////////////////////////////////////////////////
+* ///////////////////////////////////////////////////////
 
 Merhaba!
 SüperMarket projemi Python öğrenmeye başladığım zamanlarda yaptım. Bu projede Sqlite veritabanı kullanarak bilgileri tuttum. Basit düzeyde Sqlite bilgisine sahip olanlar rahatça veritabanı kodlarını anlayabilir.
