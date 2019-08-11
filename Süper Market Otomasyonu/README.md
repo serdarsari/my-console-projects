@@ -69,7 +69,7 @@ Bu seçimde kasa kapatılır ve bu gün sonu olduğu anlamına gelir. Bu işlem 
 
 ![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/s1.jpg)
 (Ürünlerin bulunduğu tablo)
-...........................
+-------------------------------------------------
 ![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/s2.jpg)
 Günlük verilerin tutulduğu tablo.(Her satır 1 günü ifade ediyor) Örneğin bu tabloda 6 gün kayıtlı
 
