@@ -3,8 +3,8 @@ Merhaba!
 SüperMarket projemi Python öğrenmeye başladığım zamanlarda yaptım. Bu projede Sqlite veritabanı kullanarak bilgileri tuttum. Basit düzeyde Sqlite bilgisine sahip olanlar rahatça veritabanı kodlarını anlayabilir.
 
 **SüperMarket Proje Özellikleri:**
- 1-Ürün Ekle
- 2-Ürün Sil
+ ⋅⋅*Ürün Ekle
+ ..*Ürün Sil
  3-Stok Sorgula (Ürün Adına Göre)
  4-Stok Sorgula (Marka Adına Göre)
  5-SuperMarket Toplam Stoğu Sorgula
