@@ -1,2 +1,2 @@
 # Projelerim
-Bitirmiş olduğum projelerimi burada bulabilirsiniz
+Bitirmiş olduğum projelerimden bazıları
