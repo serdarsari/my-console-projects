@@ -66,33 +66,33 @@ Bu seçimde kasa kapatılır ve bu gün sonu olduğu anlamına gelir. Bu işlem 
 
 ## Program içi görseller:
 
-![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/1.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/Super-Market-Otomasyonu/images/1.jpg)
 
 -------------------------------------------------
 
-![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/2.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/Super-Market-Otomasyonu/images/2.jpg)
 
 -------------------------------------------------
 
-![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/3.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/Super-Market-Otomasyonu/images/3.jpg)
 
 -------------------------------------------------
 
-![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/4.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/Super-Market-Otomasyonu/images/4.jpg)
 
 -------------------------------------------------
 
-![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/5.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/Super-Market-Otomasyonu/images/5.jpg)
 
 -------------------------------------------------
 
 ## Veritabanı görüntüleri:
 
-![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/s1.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/Super-Market-Otomasyonu/images/s1.jpg)
 (Ürünlerin bulunduğu tablo)
 
 -------------------------------------------------
 
-![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/S%C3%BCper%20Market%20Otomasyonu/images/s2.jpg)
+![alt text](https://raw.githubusercontent.com/serdarsari/Projelerim/master/Super-Market-Otomasyonu/images/s2.jpg)
 Günlük verilerin tutulduğu tablo.(Her satır 1 günü ifade ediyor) Örneğin bu tabloda 6 gün kayıtlı
 
