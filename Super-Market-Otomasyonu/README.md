@@ -1,4 +1,4 @@
-# Süper Market Otomasyonu
+# Süper Market Otomasyonu(11 Ağustos 2019)
 * ///////////////////////////////////////////////////////
 * *Bu projede kullanılan programlama dili ve programlar*
 * *Programlama Dili : **PYTHON***
