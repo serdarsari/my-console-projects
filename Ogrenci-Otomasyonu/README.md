@@ -1,4 +1,4 @@
-# Öğrenci Otomasyonu
+# Öğrenci Otomasyonu (Aralık 2017)
 * ///////////////////////////////////////////////////////
 * *Bu projede kullanılan programlama dili ve programlar*
 * *Programlama Dili : **C#***
